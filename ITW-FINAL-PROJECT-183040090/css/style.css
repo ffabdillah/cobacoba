@@ -1,0 +1,49 @@
+.slider h3,.slider h4,.slider h5,.client {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5)
+}
+
+.parallax-container {
+	height: 20%;
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.client img {
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.5));
+}
+
+.prod img {
+	max-width: 200px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.5));
+}
+
+section, footer {
+	padding: 20px 0;
+}
+
+nav,.kontak,footer {
+	background-color: #c6193e;
+}
+
+.fill {
+	min-height: 431.33px;
+}
+
+.panahatas {
+	position: absolute;
+	right: 100px;
+}
+
+.atas {
+	padding-bottom: 10px;
+	background-image: url(../assets/img/logo/rsz_food-network.png);
+}
+
+.love {
+	color: salmon;
+}
+
